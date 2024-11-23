@@ -11,7 +11,7 @@ rtp://239.10.10.7:8024/
 rtp://239.10.10.8:8028/
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-6 电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
 rtp://239.10.10.3:8008/
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV-7 军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 军事
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-7 国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
 rtp://239.10.10.9:8032/
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV-8 电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
 rtp://239.10.10.10:8036/
@@ -103,17 +103,17 @@ rtp://239.10.10.126:8500/
 rtp://239.10.10.127:8504/
 #EXTINF:-1 tvg-id="52" tvg-name="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="地方电视台",CETV-4
 rtp://239.10.10.130:8516/
-#EXTINF:-1 tvg-id="53" tvg-name="咸阳综合" tvg-logo="" group-title="地方电视台",咸阳综合
+#EXTINF:-1 tvg-id="53" tvg-name="咸阳-1 综合" tvg-logo="" group-title="地方电视台",咸阳综合
 rtp://239.10.10.134:8532/
-#EXTINF:-1 tvg-id="54" tvg-name="宝鸡-1" tvg-logo="" group-title="地方电视台",宝鸡-1
+#EXTINF:-1 tvg-id="54" tvg-name="宝鸡-1 综合" tvg-logo="" group-title="地方电视台",宝鸡-1 综合
 rtp://239.10.10.136:8540/
-#EXTINF:-1 tvg-id="55" tvg-name="渭南-1" tvg-logo="" group-title="地方电视台",渭南-1
+#EXTINF:-1 tvg-id="55" tvg-name="渭南-1 新闻综合" tvg-logo="" group-title="地方电视台",渭南-1 新闻综合
 rtp://239.10.10.138:8548/
-#EXTINF:-1 tvg-id="56" tvg-name="榆林-1" tvg-logo="" group-title="地方电视台",榆林-1
+#EXTINF:-1 tvg-id="56" tvg-name="榆林-1 综合" tvg-logo="" group-title="地方电视台",榆林-1 综合
 rtp://239.10.10.139:8552/
-#EXTINF:-1 tvg-id="57" tvg-name="商洛-1" tvg-logo="" group-title="地方电视台",商洛-1
+#EXTINF:-1 tvg-id="57" tvg-name="商洛-1 综合" tvg-logo="" group-title="地方电视台",商洛-1 综合
 rtp://239.10.10.140:8556/
-#EXTINF:-1 tvg-id="58" tvg-name="安康-1" tvg-logo="" group-title="地方电视台",安康-1
+#EXTINF:-1 tvg-id="58" tvg-name="安康-1 综合" tvg-logo="" group-title="地方电视台",安康-1 综合
 rtp://239.10.10.142:8564/
 #EXTINF:-1 tvg-id="59" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="其他",欢笑剧场
 rtp://239.10.10.128:8508/
