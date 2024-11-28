@@ -67,53 +67,51 @@ rtp://239.10.10.100:8396/
 rtp://239.10.10.93:8368/
 #EXTINF:-1 tvg-id="34" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="地方卫视",东南卫视
 rtp://239.10.10.43:8168/
-#EXTINF:-1 tvg-id="35" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="地方卫视",天津卫视
-rtp://239.10.10.93:8368/
+#EXTINF:-1 tvg-id="35" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="地方卫视",吉林卫视
+rtp://239.10.10.61:8240/
 #EXTINF:-1 tvg-id="36" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="地方卫视",河南卫视
 rtp://239.10.10.53:8208/
 #EXTINF:-1 tvg-id="37" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="地方卫视",江西卫视
 rtp://239.10.10.66:8260/
-#EXTINF:-1 tvg-id="38" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="地方卫视",吉林卫视
-rtp://239.10.10.61:8240/
-#EXTINF:-1 tvg-id="39" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="地方卫视",贵州卫视
+#EXTINF:-1 tvg-id="38" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="地方卫视",贵州卫视
 rtp://239.10.10.49:8192/
-#EXTINF:-1 tvg-id="40" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="地方卫视",辽宁卫视
+#EXTINF:-1 tvg-id="39" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="地方卫视",辽宁卫视
 rtp://239.10.10.70:8276/
-#EXTINF:-1 tvg-id="41" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="地方卫视",河北卫视
+#EXTINF:-1 tvg-id="40" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="地方卫视",河北卫视
 rtp://239.10.10.51:8200/
-#EXTINF:-1 tvg-id="42" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="地方卫视",农林卫视
+#EXTINF:-1 tvg-id="41" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="地方卫视",农林卫视
 rtp://239.10.10.143:8568/
-#EXTINF:-1 tvg-id="43" tvg-name="陕西-1 新闻资讯" tvg-logo="https://live.fanmingming.com/tv/陕西新闻资讯.png" group-title="陕西",陕西-1 新闻资讯
+#EXTINF:-1 tvg-id="42" tvg-name="陕西-1 新闻资讯" tvg-logo="https://live.fanmingming.com/tv/陕西新闻资讯.png" group-title="陕西",陕西-1 新闻资讯
 rtp://239.10.10.108:8428/
-#EXTINF:-1 tvg-id="44" tvg-name="陕西-2 都市青春" tvg-logo="https://live.fanmingming.com/tv/陕西都市青春.png" group-title="陕西",陕西-2 都市青春
+#EXTINF:-1 tvg-id="43" tvg-name="陕西-2 都市青春" tvg-logo="https://live.fanmingming.com/tv/陕西都市青春.png" group-title="陕西",陕西-2 都市青春
 rtp://239.10.10.109:8432/
-#EXTINF:-1 tvg-id="45" tvg-name="陕西-3 生活" tvg-logo="https://live.fanmingming.com/tv/陕西生活.png" group-title="陕西",陕西-3 生活
+#EXTINF:-1 tvg-id="44" tvg-name="陕西-3 生活" tvg-logo="https://live.fanmingming.com/tv/陕西生活.png" group-title="陕西",陕西-3 生活
 rtp://239.10.10.110:8436/
-#EXTINF:-1 tvg-id="46" tvg-name="陕西-4 影视" tvg-logo="https://live.fanmingming.com/tv/陕西影视.png" group-title="陕西",陕西-4 影视
+#EXTINF:-1 tvg-id="45" tvg-name="陕西-4 影视" tvg-logo="https://live.fanmingming.com/tv/陕西影视.png" group-title="陕西",陕西-4 影视
 rtp://239.10.10.111:8440/
-#EXTINF:-1 tvg-id="47" tvg-name="陕西-5 公共" tvg-logo="https://live.fanmingming.com/tv/陕西公共.png" group-title="陕西",陕西-5 公共
+#EXTINF:-1 tvg-id="46" tvg-name="陕西-5 公共" tvg-logo="https://live.fanmingming.com/tv/陕西公共.png" group-title="陕西",陕西-5 公共
 rtp://239.10.10.112:8444/
-#EXTINF:-1 tvg-id="48" tvg-name="陕西-7 体育休闲" tvg-logo="https://live.fanmingming.com/tv/陕西体育休闲.png" group-title="陕西",陕西-7 体育休闲
+#EXTINF:-1 tvg-id="47" tvg-name="陕西-7 体育休闲" tvg-logo="https://live.fanmingming.com/tv/陕西体育休闲.png" group-title="陕西",陕西-7 体育休闲
 rtp://239.10.10.114:8452/
-#EXTINF:-1 tvg-id="49" tvg-name="陕西-8 西部电影" tvg-logo="https://live.fanmingming.com/tv/陕西西部电影.png" group-title="陕西",陕西-8 西部电影
+#EXTINF:-1 tvg-id="48" tvg-name="陕西-8 西部电影" tvg-logo="https://live.fanmingming.com/tv/陕西西部电影.png" group-title="陕西",陕西-8 西部电影
 rtp://239.10.10.115:8456/
-#EXTINF:-1 tvg-id="50" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="地方电视台",金鹰纪实
+#EXTINF:-1 tvg-id="49" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="地方电视台",金鹰纪实
 rtp://239.10.10.126:8500/
-#EXTINF:-1 tvg-id="51" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="地方电视台",上海纪实
+#EXTINF:-1 tvg-id="50" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="地方电视台",上海纪实
 rtp://239.10.10.127:8504/
-#EXTINF:-1 tvg-id="52" tvg-name="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="地方电视台",CETV-4
+#EXTINF:-1 tvg-id="51" tvg-name="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="地方电视台",CETV-4
 rtp://239.10.10.130:8516/
-#EXTINF:-1 tvg-id="53" tvg-name="咸阳-1 综合" tvg-logo="" group-title="地方电视台",咸阳综合
+#EXTINF:-1 tvg-id="52" tvg-name="咸阳-1 综合" tvg-logo="" group-title="地方电视台",咸阳综合
 rtp://239.10.10.134:8532/
-#EXTINF:-1 tvg-id="54" tvg-name="宝鸡-1 综合" tvg-logo="" group-title="地方电视台",宝鸡-1 综合
+#EXTINF:-1 tvg-id="53" tvg-name="宝鸡-1 综合" tvg-logo="" group-title="地方电视台",宝鸡-1 综合
 rtp://239.10.10.136:8540/
-#EXTINF:-1 tvg-id="55" tvg-name="渭南-1 新闻综合" tvg-logo="" group-title="地方电视台",渭南-1 新闻综合
+#EXTINF:-1 tvg-id="54" tvg-name="渭南-1 新闻综合" tvg-logo="" group-title="地方电视台",渭南-1 新闻综合
 rtp://239.10.10.138:8548/
-#EXTINF:-1 tvg-id="56" tvg-name="榆林-1 综合" tvg-logo="" group-title="地方电视台",榆林-1 综合
+#EXTINF:-1 tvg-id="55" tvg-name="榆林-1 综合" tvg-logo="" group-title="地方电视台",榆林-1 综合
 rtp://239.10.10.139:8552/
-#EXTINF:-1 tvg-id="57" tvg-name="商洛-1 综合" tvg-logo="" group-title="地方电视台",商洛-1 综合
+#EXTINF:-1 tvg-id="56" tvg-name="商洛-1 综合" tvg-logo="" group-title="地方电视台",商洛-1 综合
 rtp://239.10.10.140:8556/
-#EXTINF:-1 tvg-id="58" tvg-name="安康-1 综合" tvg-logo="" group-title="地方电视台",安康-1 综合
+#EXTINF:-1 tvg-id="57" tvg-name="安康-1 综合" tvg-logo="" group-title="地方电视台",安康-1 综合
 rtp://239.10.10.142:8564/
-#EXTINF:-1 tvg-id="59" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="其他",欢笑剧场
+#EXTINF:-1 tvg-id="58" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="其他",欢笑剧场
 rtp://239.10.10.128:8508/
