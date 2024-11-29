@@ -118,9 +118,9 @@ rtp://239.10.10.126:8500/
 #EXTINF:-1 tvg-id="59" tvg-name="纪实人文卫视" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="地方卫视",纪实人文卫视
 rtp://239.10.10.127:8504/
 #EXTINF:-1 tvg-id="60" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="其他",CGTN
-rtp://239.10.10.35:8136
+rtp://239.10.10.35:8136/
 #EXTINF:-1 tvg-id="61" tvg-name="CETV-1 综合教育" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其他",CETV-1 综合教育
-rtp://239.10.10.101:8400
+rtp://239.10.10.101:8400/
 #EXTINF:-1 tvg-id="62" tvg-name="CETV-4 职业教育" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="其他",CETV-4 职业教育
 rtp://239.10.10.130:8516/
 #EXTINF:-1 tvg-id="63" tvg-name="陕西-1 新闻资讯" tvg-logo="https://live.fanmingming.com/tv/陕西新闻资讯.png" group-title="陕西",陕西-1 新闻资讯
@@ -138,9 +138,9 @@ rtp://239.10.10.114:8452/
 #EXTINF:-1 tvg-id="69" tvg-name="陕西-8 西部电影" tvg-logo="https://live.fanmingming.com/tv/陕西西部电影.png" group-title="陕西",陕西-8 西部电影
 rtp://239.10.10.115:8456/
 #EXTINF:-1 tvg-id="70" tvg-name="西安-1 新闻综合" tvg-logo="https://live.fanmingming.com/tv/西安新闻综合.png" group-title="地方电视台",西安-1 新闻综合
-rtp://239.10.10.233:8528
+rtp://239.10.10.233:8528/
 #EXTINF:-1 tvg-id="71" tvg-name="西安教育" tvg-logo="https://live.fanmingming.com/tv/西安教育.png" group-title="地方电视台",西安教育
-rtp://239.10.10.105:8416
+rtp://239.10.10.105:8416/
 #EXTINF:-1 tvg-id="72" tvg-name="咸阳-1 综合" tvg-logo="" group-title="地方电视台",咸阳综合
 rtp://239.10.10.134:8532/
 #EXTINF:-1 tvg-id="73" tvg-name="宝鸡-1 综合" tvg-logo="" group-title="地方电视台",宝鸡-1 综合
