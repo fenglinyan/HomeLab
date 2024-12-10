@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1 综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
+rtp://239.112.205.59:5140/
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2 财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
+rtp://239.112.205.78:5140/
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3 综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
+rtp://239.112.205.221:5140/
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4 中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
+rtp://239.112.205.202:5140/
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5 体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
+rtp://239.112.205.222:5140/
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-6 电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
+rtp://239.112.205.223:5140/
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-7 国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
+rtp://239.112.205.83:5140/
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-8 电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
+rtp://239.112.205.224:5140/
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-9 记录" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 记录
+rtp://239.112.205.85:5140/
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-10 科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
+rtp://239.112.205.86:5140/
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-11 戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
+rtp://239.112.205.213:5140/
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-12 社会与法" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
+rtp://239.112.205.88:5140/
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-13 新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
+rtp://239.111.205.53:5140/
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-14 少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
+rtp://239.112.205.91:5140/
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-15 音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
+rtp://2239.112.205.214:5140/
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+rtp://239.111.205.134:5140/
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-17 农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
+rtp://239.112.205.211:5140/
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-4K 超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+rtp://239.111.205.38:5140/
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV-4 中文国际 欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV-4 中文国际 欧洲
+rtp://239.111.205.83:5140/
+#EXTINF:-1 tvg-id="20" tvg-name="CCTV-4 中文国际 欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV-4 中文国际 美洲
+rtp://239.111.205.84:5140/
+#EXTINF:-1 tvg-id="21" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+rtp://239.111.205.13:5140/
+#EXTINF:-1 tvg-id="22" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际",CGTN
+rtp://239.111.205.32:5140/
+#EXTINF:-1 tvg-id="23" tvg-name="CGTN 西班牙语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="国际",CGTN 西班牙语
+rtp://239.111.205.33:5140/
+#EXTINF:-1 tvg-id="24" tvg-name="CGTN 法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="国际",CGTN 法语
+rtp://239.111.205.34:5140/
+#EXTINF:-1 tvg-id="25" tvg-name="CGTN 记录" tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="国际",CGTN 记录
+rtp://239.111.205.83:5140/
+#EXTINF:-1 tvg-id="26" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="国际",凤凰中文
+rtp://239.111.205.78:5140/
+#EXTINF:-1 tvg-id="27" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="国际",凤凰资讯
+rtp://239.111.205.82:5140/
