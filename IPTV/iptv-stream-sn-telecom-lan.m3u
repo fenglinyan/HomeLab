@@ -53,15 +53,18 @@ http://192.168.16.16:222/rtp/239.111.205.83:5140/
 # Hong Kong
 #EXTINF:-1 tvg-id="26" tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",鳳凰衛視中文台
 https://cdn6.101.qzz.io/163189/fhzw
-# Backup Line: http://192.168.16.16:222/rtp/239.111.205.78:5140/
-# Backup Line: http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="26" tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",鳳凰衛視中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="26" tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",鳳凰衛視中文台
+http://192.168.16.16:222/rtp/239.111.205.78:5140/
+
 #EXTINF:-1 tvg-id="27" tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",鳳凰衛視資訊台
 https://cdn6.101.qzz.io/163189/fhzx
 # Backup Line: http://192.168.16.16:222/rtp/239.111.205.82:5140/
 # Backup Line: http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="27" tvg-name="鳳凰衛視香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",鳳凰衛視香港台
 https://cdn6.101.qzz.io/163189/fhhk
-# Backup Line: http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+# Backup Line: http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 # Taiwan
 #EXTINF:-1 tvg-id="100" tvg-name="中天新聞台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="台湾",中天新聞台
