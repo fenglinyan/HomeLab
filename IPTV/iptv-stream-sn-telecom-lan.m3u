@@ -77,7 +77,7 @@ https://cdn6.101.qzz.io/163189/fhhk
 # Taiwan
 #EXTINF:-1 tvg-id="100" tvg-name="中天新聞台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="台湾",中天新聞台 x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370177"
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
-#EXTINF:-1 tvg-id="101" tvg-name="中視新聞" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="台湾",中視新聞 tvg-url="https://epg.pw/api/epg.xml?channel_id=370176"
+#EXTINF:-1 tvg-id="101" tvg-name="中視新聞" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" url-tvg="https://epg.pw/api/epg.xml?channel_id=370176", group-title="台湾",中視新聞
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv074
 #EXTINF:-1 tvg-id="102" tvg-name="TVBS新聞台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="台湾",TVBS新聞台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
