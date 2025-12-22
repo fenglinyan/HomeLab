@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U tvg-url="https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1 综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 http://192.168.16.16:222/rtp/239.112.205.59:5140/
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-2 财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
