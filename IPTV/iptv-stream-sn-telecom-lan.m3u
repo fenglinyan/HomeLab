@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1 综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 http://192.168.16.16:222/rtp/239.112.205.59:5140/
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-2 财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
@@ -53,26 +53,27 @@ http://192.168.16.16:222/rtp/239.111.205.83:5140/
 # Hong Kong
 #EXTINF:-1 tvg-id="26" tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",鳳凰衛視中文台
 https://cdn6.101.qzz.io/163189/fhzw
-#EXTINF:-1 tvg-id="26" tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",鳳凰衛視中文台
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-id="26" tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",鳳凰衛視中文台
-http://192.168.16.16:222/rtp/239.111.205.78:5140/
+# Backup Line: http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+# Backup Line: http://192.168.16.16:222/rtp/239.111.205.78:5140/
 
 #EXTINF:-1 tvg-id="27" tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",鳳凰衛視資訊台
 https://cdn6.101.qzz.io/163189/fhzx
 # Backup Line: http://192.168.16.16:222/rtp/239.111.205.82:5140/
 # Backup Line: http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+
 #EXTINF:-1 tvg-id="27" tvg-name="鳳凰衛視香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",鳳凰衛視香港台
 https://cdn6.101.qzz.io/163189/fhhk
 # Backup Line: http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-# 无线新闻
-# https://cdn6.101.qzz.io/163189/wxxw
+#EXTINF:-1 tvg-id="27" tvg-name="無綫新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港",無綫新聞台
+https://cdn6.101.qzz.io/163189/wxxw
 
-# 翡翠台
-# https://cdn6.101.qzz.io/163189/fct
+#EXTINF:-1 tvg-id="27" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港",翡翠台
+https://cdn6.101.qzz.io/163189/fct
 
-
+# Macau
+#EXTINF:-1 tvg-id="100" tvg-name="澳門蓮花衛視" tvg-logo="https://live.fanmingming.com/tv/莲花卫视.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=370177" group-title="澳门",澳門蓮花衛視
+http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 
 # Taiwan
 #EXTINF:-1 tvg-id="100" tvg-name="中天新聞台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=370177" group-title="台湾",中天新聞台
@@ -83,6 +84,12 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv074
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 #EXTINF:-1 tvg-id="103" tvg-name="東森新聞" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="台湾",東森新聞
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
+#EXTINF:-1 tvg-id="103" tvg-name="華視新聞" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="台湾",華視新聞
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
+#EXTINF:-1 tvg-id="103" tvg-name="三立新聞iNews" group-title="台湾",三立新聞iNews
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv089
+
+
 #EXTINF:-1 tvg-id="104" tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾",TVBS
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
 #EXTINF:-1 tvg-id="105" tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="台湾",民视台湾台
@@ -99,13 +106,17 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
 #EXTINF:-1 tvg-id="110" tvg-name="影迷数位电影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="台湾",影迷数位电影
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
 #EXTINF:-1 tvg-id="111" tvg-name="視納華仁紀實頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv013_mobile.png" group-title="台湾",視納華仁紀實頻道
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv013
 #EXTINF:-1 tvg-id="112" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="台湾",amc電影台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv017
 #EXTINF:-1 tvg-id="113" tvg-name="八大精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="台湾",八大精彩台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
 
 # Live China
+#EXTINF:-1 ,陕西西安大雁塔
+https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 ,陕西西安钟楼
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 #EXTINF:-1 ,全国风景总览
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,黟县宏村南湖
@@ -274,10 +285,6 @@ https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 #EXTINF:-1 ,沈阳辽宁浑河桥
 https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
-#EXTINF:-1 ,陕西西安大雁塔
-https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-#EXTINF:-1 ,陕西西安钟楼
-https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 #EXTINF:-1 ,陕西咸阳乾陵景区
 https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
 #EXTINF:-1 ,陕西渭南潼关县东山景区
