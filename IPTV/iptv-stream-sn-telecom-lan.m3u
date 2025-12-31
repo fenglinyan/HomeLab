@@ -50,6 +50,17 @@ http://192.168.16.16:222/rtp/239.111.205.34:5140/
 #EXTINF:-1 tvg-id="25" tvg-name="CGTN 记录" tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="国际",CGTN 记录
 http://192.168.16.16:222/rtp/239.111.205.83:5140/
 
+# 卫星电视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="地区卫视",东方卫视
+http://192.168.16.16:222/rtp/239.112.205.61:5140/
+#EXTINF:-1 tvg-id="32" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="地区卫视",湖南卫视
+http://192.168.16.16:222/rtp/239.112.205.62:5140/
+#EXTINF:-1 tvg-id="33" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="地区卫视",江苏卫视
+http://192.168.16.16:222/rtp/239.112.205.63:5140/
+#EXTINF:-1 tvg-id="34" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="地区卫视",浙江卫视
+http://192.168.16.16:222/rtp/239.112.205.64:5140/
+
+
 # Hong Kong
 #EXTINF:-1 tvg-id="26" tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",鳳凰衛視中文台
 https://cdn6.101.qzz.io/163189/fhzw
@@ -113,10 +124,6 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv017
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
 
 # Live China
-#EXTINF:-1 ,陕西西安大雁塔
-https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-#EXTINF:-1 ,陕西西安钟楼
-https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 #EXTINF:-1 ,全国风景总览
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,黟县宏村南湖
@@ -285,6 +292,10 @@ https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 #EXTINF:-1 ,沈阳辽宁浑河桥
 https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 ,陕西西安大雁塔
+https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 ,陕西西安钟楼
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 #EXTINF:-1 ,陕西咸阳乾陵景区
 https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
 #EXTINF:-1 ,陕西渭南潼关县东山景区
